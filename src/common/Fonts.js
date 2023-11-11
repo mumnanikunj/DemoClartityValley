@@ -1,0 +1,9 @@
+export const Bold = 'Lato-Bold'; // 
+export const Medium = 'Lato-Medium'; 
+export const SemiBold = 'Lato-SemiBold';
+export const Regular = 'Lato-Regular';
+export const Italic = 'Lato-italic';
+// export const SemiBold_Italic = 'Montserrat-SemiBoldItalic';
+export const Bold_Italic = 'Lato-BoldItalic';
+// export const Metro_Italic = 'Metropolitano-Italic.ttf';
+// export const MetroBold_Italic = 'Montserrat-BoldItalic';

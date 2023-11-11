@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "488313017078",
+    "project_id": "clarity-valley",
+    "storage_bucket": "clarity-valley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488313017078:android:6b185706f436ff133592d7",
+        "android_client_info": {
+          "package_name": "com.clarityvalley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488313017078-j0061vmlhp8fde0qjk21mm4vf7hbme5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8iaEhB4HftE0-BaA49Zk9ALZ03IOEFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488313017078-j0061vmlhp8fde0qjk21mm4vf7hbme5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488313017078-fcsef3d4qrb675mgvarv1ujd31oub74r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.clarityvalley"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

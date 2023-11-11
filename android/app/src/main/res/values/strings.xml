@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClarityValley</string>
+    <string name="facebook_app_id">131479396567108</string>
+    <!-- <string name="fb_login_protocol_scheme">fb131479396567108</string> -->
+</resources>
